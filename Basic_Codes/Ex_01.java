@@ -1,0 +1,9 @@
+package Basic_Codes;
+
+public class Ex_01 {
+    public static void main(String[] args){
+        System.out.println("Hello World");
+        System.out.println("My name is Vinay");
+    }
+}
+
